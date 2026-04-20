@@ -1,0 +1,9 @@
+Analyze the following financial data:
+
+Income: {income}
+Expenses: {expenses}
+
+Give:
+- Budget advice
+- Savings suggestion
+- Investment recommendation
